@@ -8,4 +8,12 @@ I'm a student studying computer science at Kibo School of Technology. I am passi
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I am a big anime and MMA enthusiast.
 
+### Connect with Me
+1. [Linkedin][website1]  
+2. [Github][website2]
+3. Email: ayomikun.olalekan@Kibo.school
+
+[website1]: https://www.linkedin.com/in/ayomikun-olalekan-5b1592219?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQgq96Rn%2FSVacI%2BkwgdMmiQ%3D%3D
+[website2]: https://github.com/ayomikunolalekan
+
 
