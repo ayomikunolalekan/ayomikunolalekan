@@ -11,7 +11,11 @@ I'm a student studying computer science at Kibo School of Technology. I am passi
 ### Connect with Me
 1. [Linkedin][website1]  
 2. [Github][website2]
-3. Email: ayomikun.olalekan@Kibo.school
+3. Email: ayomikun.olalekan@kibo.school
+
+![Ayomikun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayomikunolalekan&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayomikunolalekan&langs_count=5)](https://github.com/ayomikunolalekan/github-readme-stats)
 
 [website1]: https://www.linkedin.com/in/ayomikun-olalekan-5b1592219?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQgq96Rn%2FSVacI%2BkwgdMmiQ%3D%3D
 [website2]: https://github.com/ayomikunolalekan
