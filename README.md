@@ -1,17 +1,17 @@
 ### Hi! I'm Ayomikun Olalekan 👋
 
-I'm a student studying computer science at Kibo School of Technology. I am passionate about using technology as a medium to make the world a better place. I am interested in artificial intelligence, game and mobile app development, and health technology.
+I am an aspiring software engineer and a student currently studying chemistry at Olabisi Onabanjo University. I am passionate about using technology as a medium to make the world a better place. I am interested in artificial intelligence, data science, game and mobile app development, and health technology.
 
-- 🔭 I’m currently working on getting my B.SC in Computer Science.
-- 🌱 I’m currently learning data structures and algorithms in Python, HTML and CSS.
-- 🤔 I’m looking for help finding an internship in either software engineering or product management.
+- 🔭 I’m currently working on getting my B.SC in Chemistry.
+- 🌱 I’m currently learning web development using HTML and CSS, and programming in Python.
+- 🤔 I’m looking for help finding an internship in software engineering.
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I am a big anime and MMA enthusiast.
 
 ### Connect with Me
 1. [Linkedin][website1]  
 2. [Github][website2]
-3. Email: ayomikun.olalekan@kibo.school
+3. Email: ayomikunolalekan6@gmail.com
 
 ![Ayomikun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayomikunolalekan&show_icons=true&theme=tokyonight)
 
